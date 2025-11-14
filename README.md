@@ -59,5 +59,5 @@ This is my **first Java project** to practice Object-Oriented Programming fundam
 Business Informatics Student at GUC  
 Interested in Software Development & AI
 
-LinkedIn: *(add your link when ready)*  
-Email: *(optional)*
+
+Email: lilyeldaief@gmail.com
